@@ -62,3 +62,4 @@
 2018-10-11 00:32:07,834 | INFO | DefaultShutdownStrategy.java 260 | Graceful shutdown of 1 routes completed in 0 seconds
 2018-10-11 00:32:07,863 | INFO | DefaultCamelContext.java 3588 | Apache Camel 2.20.1 (CamelContext: camel-1) uptime 5.690 seconds
 2018-10-11 00:32:07,864 | INFO | DefaultCamelContext.java 3589 | Apache Camel 2.20.1 (CamelContext: camel-1) is shutdown in 0.049 seconds
+
